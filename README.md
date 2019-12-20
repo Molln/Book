@@ -1,2 +1,2 @@
 # Book
-Some E-book
+Just a book list
